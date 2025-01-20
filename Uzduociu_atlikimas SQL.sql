@@ -1,4 +1,4 @@
-﻿use Ignitis;
+﻿use Project3;
 
 /*
 1.Trys Daugiausiai įtakos turinčios patikimumo rodikliui linijos ir jų parametrai: 
